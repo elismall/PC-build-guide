@@ -4,7 +4,7 @@
 <h2><strong>Overview</strong></h2>
 <p>
 PC Build Guide is an open-source resource designed to help users build the best possible PC based on their <strong>budget</strong> and <strong>performance goals</strong>. This project covers everything from the fundamentals of PC components (CPU, GPU, motherboard, RAM, etc.) to compatibility considerations and optimized part combinations for gaming, productivity, and AI workloads.
-</p>
+</p> 
 <p><strong>Disclaimer:</strong> This project is just for fun and educational purposes. For actual PC building, platforms like https://pcpartpicker.com/ and other professional tools are far more accurate and feature-rich.</p>
 
 <hr>
